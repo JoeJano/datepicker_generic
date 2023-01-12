@@ -1,0 +1,19 @@
+{
+  "name": "@cheqeeh/datepicker_generic",
+  "version": "1.0.0",
+  "description": "datepicker motors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheqeeh/datepicker_generic.git"
+  },
+  "author": "cheqeeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheqeeh/datepicker_generic/issues"
+  },
+  "homepage": "https://github.com/cheqeeh/datepicker_generic#readme"
+}
